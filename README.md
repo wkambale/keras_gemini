@@ -74,4 +74,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## License
 
-Distributed under the Apache 2.0 License. See [License](https://github.com/wkambale/keras_gemini/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [License](https://github.com/wkambale/keras_gemini/blob/main/LICENSE) for more information.
