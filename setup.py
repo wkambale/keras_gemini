@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="keras-gemini",
-    version="0.1.0",
+    version="0.1.1",
     description="A Python package that combines the power of Keras with Gemini for natural language-driven neural network building.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
