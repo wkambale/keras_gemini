@@ -1,0 +1,5 @@
+include LICENSE
+include README.md
+recursive-include keras-gemini *
+recursive-include tests *
+recursive-include examples *
